@@ -14,8 +14,16 @@
 </head>
 <?php
 include 'partials/_header.php';
+?>
+
+<div class="container">
+    <h2>Forum - Categories</h2>
+</div>;
+
+<?php
 include 'partials/_footer.php';
 ?>
+
 
 <body>
     <!-- Optional JavaScript -->
